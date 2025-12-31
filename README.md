@@ -348,3 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **RetryIX**: Democratizing high-performance computing through open-source innovation.
+
+## License
+This project is licensed under the Retryix Limited Research License (RL-1.0).
+For commercial/institutional licensing inquiries contact: ixu@retryixagi.com
